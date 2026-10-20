@@ -69,8 +69,7 @@ The dashboard includes:
 - [x] Store data in a Databricks Delta table
 - [x] Analyze performance using SQL
 - [x] Build a Power BI dashboard
-- [ ] Add notebook source code and dashboard screenshot
-- [ ] Document the complete workflow
+
 
 ## Future Improvements
 - Add production targets and performance comparisons.
