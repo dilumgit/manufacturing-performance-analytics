@@ -58,7 +58,9 @@ The dashboard includes:
 - Defect rate by machine
 - Machine downtime by machine
 
-_Add the Power BI dashboard screenshot here._
+## Power BI Dashboard
+
+![Manufacturing Performance Dashboard](manufacturing-performance-dashboard.png)
 
 ## Project Status
 - [x] Generate simulated manufacturing data
